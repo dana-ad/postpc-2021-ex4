@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FindRoots</string>
+    <string name="success_msg">Successful calculation!</string>
+    <string name="origin_number">origin number is: %d</string>
+    <string name="roots">Result: %d * %d = %d</string>
+    <string name="calc_time">Calculation time: %d seconds</string>
 </resources>

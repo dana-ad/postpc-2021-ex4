@@ -1,9 +1,6 @@
 package exercise.find.roots;
-
 import android.content.Intent;
-
 import junit.framework.TestCase;
-
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.robolectric.Robolectric;
